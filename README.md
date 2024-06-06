@@ -33,5 +33,5 @@ Don't believe me? Check out my talk [Life of a Container](https://www.youtube.co
 
 <br/>
 
-| <a href="https://indradhanush.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=indradhanush&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true" alt="Indradhanush's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indradhanush&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=html,javascript,css&exclude_repo=.emacs.d,creating-smart-webapps-with-django,i3-agenda,soledad,autopalette" /></a> |
+| <a href="https://indradhanush.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=indradhanush&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&disable_animations=true" alt="Indradhanush's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indradhanush&layout=compact&theme=transparent&hide_border=true&disable_animations=true&langs_count=6&hide=html,javascript,css&exclude_repo=.emacs.d,creating-smart-webapps-with-django,i3-agenda,soledad,autopalette" /></a> |
 | ------------- | ------------- |
