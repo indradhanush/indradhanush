@@ -8,17 +8,21 @@
 - ⚡ **Fun fact:** My name means 🌈 in my native language (Hindi)
 
 
-**I dig under the hood of complicated systems that look like this:**
+<h3>I dig under the hood of complicated systems that look like this:</h3><br/>
 
 <figure>
-	<img src="./assets/complicated-arrow.png" alt="complicated-arrow" />
+	<img src="./assets/complicated-arrow.jpeg" alt="complicated-arrow" />
 </figure>
 
-**And find ways of explaining them so that they look like this instead:**
+<br/>
+
+<h3>And find ways of explaining them so that they look like this instead:</h3><br/>
 
 <figure>
-	<img src="./assets/simple-arrow.png" alt="simple-arrow" />
+	<img src="./assets/simpler-arrow.jpeg" alt="simpler-arrow" />
 </figure>
+
+<br/>
 
 Don't believe me? Check out my talk [Life of a Container](https://www.youtube.com/watch?v=mGWWTP1Jeso&list=PLqXcwKK8poLgXJusJIKX6ghAv24H5PVi3) or one or more of my blog posts:
 
